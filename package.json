@@ -1,0 +1,21 @@
+{
+  "name": "arr-kv-table",
+  "main": "arr-kv-table.js",
+  "license": "MIT",
+  "dependencies": {
+    "deep-equal": "^1.0.1",
+    "clone": "^2.1.1",
+    "arr-tools": "^0.0.1",
+    "number-type-info": "^0.0.1"
+  },
+  "engines": {
+    "node": ">=6.5.0"
+  },
+  "description": "Array Key-Value Table",
+  "author": "James Vickers <james@metabench.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/metabench/arr-kv-table.git"
+  },
+  "version": "0.0.1"
+}
